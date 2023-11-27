@@ -1,0 +1,22 @@
+:root {
+  --bs-dark: #212529;
+}
+
+.theme-container {
+  width: 30x;
+  height: 30px;
+  border-radius: 50%;
+   margin-right: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: 0.5s;
+}
+
+.theme-container:hover{
+  opacity: .7;
+
+}
+ 
+ 
+  
